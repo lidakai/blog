@@ -1,6 +1,6 @@
 # 头部菜单，title: link
 menu:
-  大杂烩: /other
+  个人简介: /other
   Github: https://github.com/lidakai
   Twitter: https://twitter.com/likai_Yu
   分类: /categories
@@ -32,22 +32,22 @@ gitalk:
     # 是否自动展开评论框
     autoExpand: false
     # 应用编号
-    clientID: ''
+    clientID: 'e41bd515bc03a5ec0ec3'
     # 应用秘钥
-    clientSecret: ''
+    clientSecret: '68b50c6a7e4c93885500d137628cc4656ca6e2fc'
     # issue仓库名
-    repo: ''
+    repo: '七月'
     # Github名
-    owner: ''
+    owner: 'lidakai'
     # Github名
-    admin: ['']
+    admin: ['lidakai']
     # Ensure uniqueness and length less than 50
     id: location.pathname
     # Facebook-like distraction free mode
     distractionFreeMode: false
 
 # 网站关键字
-keywords: Fechin
+keywords: 前端技术、CSS、html、javascript、node、爬虫、后端、个人博客
 
 # 要使用google_analytics进行统计的话，这里需要配置ID
 google_analytics: 
